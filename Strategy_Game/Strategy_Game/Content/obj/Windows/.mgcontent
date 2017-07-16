@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/player_builder.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/player_healer.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/player_warrior.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/player_wizard.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/enemy_builder.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/enemy_healer.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/enemy_warrior.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/enemy_wizard.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/dirt.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/tree.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/water.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/wheat.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/bridge.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/player_cc.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/player_harvester.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/enemy_cc.png</File>
+    <File>A:/Wong Tiong Kiat/Desktop/University/Game Algo/Strategy_Game/Strategy_Game/Strategy_Game/Content/enemy_harvester.png</File>
+  </SourceFiles>
+</SourceFileCollection>
